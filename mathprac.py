@@ -1,4 +1,4 @@
-# You can choose between solving sums or asking it questions
+# The user chooses if it wants to solve sums or ask questions. Four basic operations to be used
 
 import random
 print("Let's do math")
