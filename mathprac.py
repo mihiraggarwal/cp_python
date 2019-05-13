@@ -1,3 +1,5 @@
+# You can choose between solving sums or asking it questions
+
 import random
 print("Let's do math")
 print('Do you wanna solve sums? (Yes/No)')
