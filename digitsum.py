@@ -1,3 +1,5 @@
+# The sum of the digits of a user chosen number is added until the output is a single digit
+
 a=int(input('Enter a number '))
 b=len(str(a))
 d=[]
