@@ -13,4 +13,3 @@ while b!=0:
     d.clear()
     if b==1:
         break
-
